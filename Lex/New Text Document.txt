@@ -1,0 +1,6 @@
+Respected Sir,
+I have had done the lexar report mostly, and i encountered a problem here , I could not identify the identifier specifically. Because there can be many variable ,function or class names depends on the code writter.Can you kindly review it.I have attached the file here for your convenience.
+Thanks,
+Md. Fahim Bin Imam Nahid
+Id: 22-46078-1
+Section: G
